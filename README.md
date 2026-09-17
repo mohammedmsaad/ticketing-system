@@ -1,6 +1,6 @@
 # Selling Tickets Online (Swiftly)
 
-A Concurrent Ticket Sale system created for the Concurrent Programming course at Saarland University lectured by [Prof. Dr.-Ing. Philipp Slusallek](https://depend.cs.uni-saarland.de/~hermanns/) during the Summer Term 2024
+A Concurrent Ticket Sale system created for the Concurrent Programming course at Saarland University lectured by [Prof. Dr. Holger Hermanns](https://depend.cs.uni-saarland.de/~hermanns/) during the Summer Term 2024
 
 ---
 
